@@ -1,6 +1,7 @@
 # This is a GuessingGame
 
 
-## is the date and time this README.md was generated
+## This README.md was generated on this date:
+Tue 26 Jun 2018 12:15:26 WAT
 
 25
